@@ -1,9 +1,7 @@
 # aima-python
 Automatically exported from code.google.com/p/aima-python
-
+-> see for complete wiki
 by Peter Norvig
-
-from https://code.google.com/archive/p/aima-python/wikis/ReadMe.wiki
 
 Introduction
 
